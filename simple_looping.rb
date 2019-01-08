@@ -19,7 +19,6 @@ end
   #  phrase and break when the counter hits the appropriate number...
   #phrase = "Welcome to Flatiron School's Web Development Course!"
   
-#end
 
 def times_iterator(number_of_times)
   number_of_times.times do
